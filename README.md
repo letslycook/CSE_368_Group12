@@ -2,7 +2,7 @@
 
 1. Download Ollama at the following link: https://ollama.com/download
 
-2. Pull model on command line with the following prompt: ollama pull llama3:8b
+2. Pull model on command line with the following command: ollama pull llama3:8b
 
 3. Download project zip from this GitHub.
 

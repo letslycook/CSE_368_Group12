@@ -1,0 +1,16 @@
+﻿Plot_ID,3_Seasons_Ago,2_Seasons_Ago,Last_Season,Years_Since_OFF-Year
+1,corn ,cotton,OFF,1
+2,wheat,OFF,cotton,2
+3,OFF,wheat,corn ,3
+4,penuts,OFF,wheat,2
+5,cotton,penuts,OFF,1
+6,corn ,cotton,OFF,1
+7,wheat,corn ,cotton,4
+8,soy,wheat,OFF,1
+9,OFF,soy,wheat,3
+10,cotton,OFF,soy,2
+11,corn ,cotton,OFF,1
+12,OFF,corn ,cotton,3
+13,soy,wheat,corn ,4
+14,penuts,OFF,wheat,2
+15,cotton,penuts,OFF,1
